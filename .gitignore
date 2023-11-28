@@ -3,9 +3,15 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+Extra/*
+Frames/*
 # C extensions
 *.so
-
+nsfw/*
+mobilenet_v2_140_224.1/*
+*/mobilenet_v2_140_224.1/*
+mobilenet_v2_140_224.1/*
+nsfw_mobilenet_v2_140_224/*
 # Distribution / packaging
 .Python
 build/

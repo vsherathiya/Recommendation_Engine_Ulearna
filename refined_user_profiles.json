@@ -1,0 +1,747 @@
+[
+    {
+        "user_id": "user_0",
+        "region": "South America",
+        "languages": [
+            "Korean"
+        ],
+        "preferences": [
+            "gaming"
+        ],
+        "account_created": "2022-12-19",
+        "birth_date": "2005-10-19"
+    },
+    {
+        "user_id": "user_1",
+        "region": "Africa",
+        "languages": [
+            "Finnish",
+            "Japanese"
+        ],
+        "preferences": [
+            "food",
+            "fashion",
+            "music"
+        ],
+        "account_created": "2023-10-13",
+        "birth_date": "1987-01-23"
+    },
+    {
+        "user_id": "user_2",
+        "region": "Asia",
+        "languages": [
+            "Hebrew",
+            "Dutch",
+            "English"
+        ],
+        "preferences": [
+            "education"
+        ],
+        "account_created": "2023-08-08",
+        "birth_date": "1976-09-05"
+    },
+    {
+        "user_id": "user_3",
+        "region": "Asia",
+        "languages": [
+            "Marathi"
+        ],
+        "preferences": [
+            "health"
+        ],
+        "account_created": "2023-02-12",
+        "birth_date": "1982-07-12"
+    },
+    {
+        "user_id": "user_4",
+        "region": "Southeast Asia",
+        "languages": [
+            "Hindi"
+        ],
+        "preferences": [
+            "music",
+            "finance",
+            "history",
+            "cinema"
+        ],
+        "account_created": "2023-08-20",
+        "birth_date": "1987-03-22"
+    },
+    {
+        "user_id": "user_5",
+        "region": "Asia",
+        "languages": [
+            "Filipino",
+            "Danish",
+            "German"
+        ],
+        "preferences": [
+            "entertainment",
+            "health",
+            "cinema",
+            "sports"
+        ],
+        "account_created": "2023-07-17",
+        "birth_date": "2001-09-12"
+    },
+    {
+        "user_id": "user_6",
+        "region": "Australia",
+        "languages": [
+            "Polish",
+            "Ukrainian",
+            "Finnish"
+        ],
+        "preferences": [
+            "music",
+            "literature"
+        ],
+        "account_created": "2023-10-09",
+        "birth_date": "1977-08-05"
+    },
+    {
+        "user_id": "user_7",
+        "region": "North America",
+        "languages": [
+            "Swedish"
+        ],
+        "preferences": [
+            "nature",
+            "education",
+            "food"
+        ],
+        "account_created": "2023-10-19",
+        "birth_date": "1985-05-21"
+    },
+    {
+        "user_id": "user_8",
+        "region": "South Africa",
+        "languages": [
+            "Russian"
+        ],
+        "preferences": [
+            "cinema",
+            "technology",
+            "food"
+        ],
+        "account_created": "2023-05-26",
+        "birth_date": "1975-05-18"
+    },
+    {
+        "user_id": "user_9",
+        "region": "Australia",
+        "languages": [
+            "Swedish"
+        ],
+        "preferences": [
+            "lifestyle",
+            "history"
+        ],
+        "account_created": "2023-02-06",
+        "birth_date": "1995-04-05"
+    },
+    {
+        "user_id": "user_10",
+        "region": "Asia",
+        "languages": [
+            "Polish",
+            "Greek",
+            "Hindi"
+        ],
+        "preferences": [
+            "entertainment",
+            "education",
+            "food",
+            "technology",
+            "health"
+        ],
+        "account_created": "2022-12-30",
+        "birth_date": "2000-08-09"
+    },
+    {
+        "user_id": "user_11",
+        "region": "Europe",
+        "languages": [
+            "Swahili"
+        ],
+        "preferences": [
+            "finance",
+            "art",
+            "technology",
+            "travel"
+        ],
+        "account_created": "2023-08-09",
+        "birth_date": "2002-11-07"
+    },
+    {
+        "user_id": "user_12",
+        "region": "Central Africa",
+        "languages": [
+            "Vietnamese",
+            "Polish"
+        ],
+        "preferences": [
+            "art",
+            "lifestyle",
+            "sports",
+            "health",
+            "politics"
+        ],
+        "account_created": "2023-05-02",
+        "birth_date": "2002-09-28"
+    },
+    {
+        "user_id": "user_13",
+        "region": "Asia",
+        "languages": [
+            "Greek",
+            "Mandarin"
+        ],
+        "preferences": [
+            "gaming",
+            "art",
+            "finance",
+            "health",
+            "nature"
+        ],
+        "account_created": "2023-03-19",
+        "birth_date": "1993-10-19"
+    },
+    {
+        "user_id": "user_14",
+        "region": "Middle East",
+        "languages": [
+            "Marathi",
+            "Portuguese"
+        ],
+        "preferences": [
+            "art",
+            "science",
+            "fashion",
+            "finance"
+        ],
+        "account_created": "2023-06-13",
+        "birth_date": "1983-01-16"
+    },
+    {
+        "user_id": "user_15",
+        "region": "North America",
+        "languages": [
+            "French",
+            "German"
+        ],
+        "preferences": [
+            "food",
+            "literature"
+        ],
+        "account_created": "2023-03-13",
+        "birth_date": "1978-04-05"
+    },
+    {
+        "user_id": "user_16",
+        "region": "Southeast Asia",
+        "languages": [
+            "German",
+            "Arabic"
+        ],
+        "preferences": [
+            "food"
+        ],
+        "account_created": "2023-01-17",
+        "birth_date": "1990-11-14"
+    },
+    {
+        "user_id": "user_17",
+        "region": "Central Asia",
+        "languages": [
+            "Punjabi",
+            "Dutch",
+            "Ukrainian"
+        ],
+        "preferences": [
+            "comedy",
+            "art",
+            "history",
+            "literature"
+        ],
+        "account_created": "2023-01-18",
+        "birth_date": "1983-04-06"
+    },
+    {
+        "user_id": "user_18",
+        "region": "North America",
+        "languages": [
+            "Indonesian",
+            "Marathi",
+            "Thai"
+        ],
+        "preferences": [
+            "travel",
+            "finance",
+            "lifestyle"
+        ],
+        "account_created": "2023-08-08",
+        "birth_date": "2000-03-02"
+    },
+    {
+        "user_id": "user_19",
+        "region": "North Africa",
+        "languages": [
+            "Hebrew",
+            "German",
+            "Mandarin"
+        ],
+        "preferences": [
+            "food",
+            "art"
+        ],
+        "account_created": "2023-09-15",
+        "birth_date": "1987-09-19"
+    },
+    {
+        "user_id": "user_20",
+        "region": "Europe",
+        "languages": [
+            "Dutch",
+            "Filipino"
+        ],
+        "preferences": [
+            "gaming",
+            "health",
+            "entertainment"
+        ],
+        "account_created": "2023-06-28",
+        "birth_date": "1974-04-20"
+    },
+    {
+        "user_id": "user_21",
+        "region": "Antarctica",
+        "languages": [
+            "Italian",
+            "Bengali",
+            "Malay"
+        ],
+        "preferences": [
+            "nature",
+            "fashion"
+        ],
+        "account_created": "2023-04-10",
+        "birth_date": "1976-04-02"
+    },
+    {
+        "user_id": "user_22",
+        "region": "South America",
+        "languages": [
+            "Bengali",
+            "Norwegian"
+        ],
+        "preferences": [
+            "politics",
+            "entertainment"
+        ],
+        "account_created": "2023-01-27",
+        "birth_date": "1997-08-20"
+    },
+    {
+        "user_id": "user_23",
+        "region": "Central Asia",
+        "languages": [
+            "Norwegian"
+        ],
+        "preferences": [
+            "gaming",
+            "food",
+            "finance",
+            "politics",
+            "sports"
+        ],
+        "account_created": "2023-05-17",
+        "birth_date": "1996-04-09"
+    },
+    {
+        "user_id": "user_24",
+        "region": "Middle East",
+        "languages": [
+            "Vietnamese",
+            "French",
+            "Hebrew"
+        ],
+        "preferences": [
+            "art",
+            "travel"
+        ],
+        "account_created": "2023-04-12",
+        "birth_date": "1985-04-08"
+    },
+    {
+        "user_id": "user_25",
+        "region": "Africa",
+        "languages": [
+            "Vietnamese"
+        ],
+        "preferences": [
+            "entertainment",
+            "technology",
+            "cinema",
+            "fashion",
+            "music"
+        ],
+        "account_created": "2023-06-06",
+        "birth_date": "2001-01-04"
+    },
+    {
+        "user_id": "user_26",
+        "region": "Australia",
+        "languages": [
+            "Dutch"
+        ],
+        "preferences": [
+            "health"
+        ],
+        "account_created": "2023-03-29",
+        "birth_date": "1982-04-07"
+    },
+    {
+        "user_id": "user_27",
+        "region": "Antarctica",
+        "languages": [
+            "Thai",
+            "Italian"
+        ],
+        "preferences": [
+            "music",
+            "education",
+            "food"
+        ],
+        "account_created": "2023-06-28",
+        "birth_date": "1981-05-19"
+    },
+    {
+        "user_id": "user_28",
+        "region": "South Africa",
+        "languages": [
+            "Hindi",
+            "Kannada",
+            "French"
+        ],
+        "preferences": [
+            "technology",
+            "literature"
+        ],
+        "account_created": "2023-09-28",
+        "birth_date": "1993-11-27"
+    },
+    {
+        "user_id": "user_29",
+        "region": "Africa",
+        "languages": [
+            "Swahili"
+        ],
+        "preferences": [
+            "fashion",
+            "entertainment"
+        ],
+        "account_created": "2023-05-18",
+        "birth_date": "1975-08-23"
+    },
+    {
+        "user_id": "user_30",
+        "region": "West Asia",
+        "languages": [
+            "Russian"
+        ],
+        "preferences": [
+            "history",
+            "science"
+        ],
+        "account_created": "2023-04-14",
+        "birth_date": "1980-12-19"
+    },
+    {
+        "user_id": "user_31",
+        "region": "Africa",
+        "languages": [
+            "Portuguese"
+        ],
+        "preferences": [
+            "politics",
+            "cinema",
+            "lifestyle"
+        ],
+        "account_created": "2023-02-06",
+        "birth_date": "1987-09-04"
+    },
+    {
+        "user_id": "user_32",
+        "region": "South Africa",
+        "languages": [
+            "Mandarin",
+            "Indonesian",
+            "Dutch"
+        ],
+        "preferences": [
+            "art",
+            "science",
+            "politics",
+            "sports",
+            "technology"
+        ],
+        "account_created": "2023-04-28",
+        "birth_date": "1981-12-17"
+    },
+    {
+        "user_id": "user_33",
+        "region": "South Africa",
+        "languages": [
+            "Turkish"
+        ],
+        "preferences": [
+            "comedy",
+            "entertainment",
+            "finance",
+            "literature"
+        ],
+        "account_created": "2023-08-17",
+        "birth_date": "2003-06-20"
+    },
+    {
+        "user_id": "user_34",
+        "region": "Australia",
+        "languages": [
+            "Czech",
+            "Kannada",
+            "Spanish"
+        ],
+        "preferences": [
+            "cinema",
+            "politics",
+            "science",
+            "food"
+        ],
+        "account_created": "2023-04-16",
+        "birth_date": "1982-09-05"
+    },
+    {
+        "user_id": "user_35",
+        "region": "Asia",
+        "languages": [
+            "Polish"
+        ],
+        "preferences": [
+            "travel",
+            "comedy",
+            "science",
+            "entertainment",
+            "finance"
+        ],
+        "account_created": "2023-03-28",
+        "birth_date": "1993-09-26"
+    },
+    {
+        "user_id": "user_36",
+        "region": "Antarctica",
+        "languages": [
+            "Czech",
+            "Czech"
+        ],
+        "preferences": [
+            "politics",
+            "sports",
+            "comedy",
+            "travel"
+        ],
+        "account_created": "2023-03-03",
+        "birth_date": "1976-10-31"
+    },
+    {
+        "user_id": "user_37",
+        "region": "Europe",
+        "languages": [
+            "Filipino",
+            "Finnish",
+            "Filipino"
+        ],
+        "preferences": [
+            "finance",
+            "food",
+            "art",
+            "travel"
+        ],
+        "account_created": "2022-11-24",
+        "birth_date": "1991-03-16"
+    },
+    {
+        "user_id": "user_38",
+        "region": "Southeast Asia",
+        "languages": [
+            "Filipino",
+            "Indonesian"
+        ],
+        "preferences": [
+            "sports",
+            "science",
+            "technology",
+            "finance",
+            "food"
+        ],
+        "account_created": "2023-04-26",
+        "birth_date": "1988-02-22"
+    },
+    {
+        "user_id": "user_39",
+        "region": "Middle East",
+        "languages": [
+            "Filipino",
+            "Bengali"
+        ],
+        "preferences": [
+            "finance",
+            "comedy"
+        ],
+        "account_created": "2023-01-09",
+        "birth_date": "1993-12-09"
+    },
+    {
+        "user_id": "user_40",
+        "region": "Antarctica",
+        "languages": [
+            "Korean",
+            "Ukrainian"
+        ],
+        "preferences": [
+            "sports"
+        ],
+        "account_created": "2022-12-25",
+        "birth_date": "1989-05-12"
+    },
+    {
+        "user_id": "user_41",
+        "region": "West Asia",
+        "languages": [
+            "Dutch",
+            "Greek"
+        ],
+        "preferences": [
+            "lifestyle"
+        ],
+        "account_created": "2023-04-05",
+        "birth_date": "1975-02-18"
+    },
+    {
+        "user_id": "user_42",
+        "region": "Southeast Asia",
+        "languages": [
+            "Tamil"
+        ],
+        "preferences": [
+            "technology"
+        ],
+        "account_created": "2023-02-08",
+        "birth_date": "1996-08-10"
+    },
+    {
+        "user_id": "user_43",
+        "region": "West Asia",
+        "languages": [
+            "French",
+            "Arabic",
+            "Hebrew"
+        ],
+        "preferences": [
+            "science",
+            "fashion",
+            "education",
+            "nature",
+            "politics"
+        ],
+        "account_created": "2023-09-30",
+        "birth_date": "1980-12-18"
+    },
+    {
+        "user_id": "user_44",
+        "region": "South Africa",
+        "languages": [
+            "Kannada"
+        ],
+        "preferences": [
+            "entertainment",
+            "gaming",
+            "lifestyle",
+            "comedy"
+        ],
+        "account_created": "2023-07-04",
+        "birth_date": "1974-02-06"
+    },
+    {
+        "user_id": "user_45",
+        "region": "West Asia",
+        "languages": [
+            "Indonesian"
+        ],
+        "preferences": [
+            "sports",
+            "science"
+        ],
+        "account_created": "2023-04-13",
+        "birth_date": "1991-03-18"
+    },
+    {
+        "user_id": "user_46",
+        "region": "Asia",
+        "languages": [
+            "Danish",
+            "Turkish",
+            "Polish"
+        ],
+        "preferences": [
+            "fashion",
+            "sports",
+            "entertainment",
+            "science"
+        ],
+        "account_created": "2023-05-07",
+        "birth_date": "2004-08-05"
+    },
+    {
+        "user_id": "user_47",
+        "region": "Australia",
+        "languages": [
+            "German",
+            "Filipino",
+            "Finnish"
+        ],
+        "preferences": [
+            "health"
+        ],
+        "account_created": "2023-01-01",
+        "birth_date": "1975-01-05"
+    },
+    {
+        "user_id": "user_48",
+        "region": "East Asia",
+        "languages": [
+            "Turkish",
+            "Japanese",
+            "Hebrew"
+        ],
+        "preferences": [
+            "politics"
+        ],
+        "account_created": "2023-08-29",
+        "birth_date": "1986-03-11"
+    },
+    {
+        "user_id": "user_49",
+        "region": "Middle East",
+        "languages": [
+            "German",
+            "Czech",
+            "Norwegian"
+        ],
+        "preferences": [
+            "finance"
+        ],
+        "account_created": "2023-09-19",
+        "birth_date": "1979-03-15"
+    }
+]
