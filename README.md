@@ -24,7 +24,7 @@
     Create a new Conda environment with the required Python version:
 
     ```
-    conda create --name <env-name> python=<python-version>
+    conda create -p <env-name> python=<python-version> -y
     ```
     
     Replace `<env-name>` with your desired environment name (e.g., `myenv`) and `<python-version>` with the specific Python version needed for your project (e.g., `3.8`).
