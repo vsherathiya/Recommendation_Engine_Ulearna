@@ -2,9 +2,13 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+benchmark_data/*
+Data/*
+Dataset/*
+Dataset.zip
+files.zip
 Extra/*
-Frames/*
+Frames*/*
 # C extensions
 *.so
 nsfw/*
