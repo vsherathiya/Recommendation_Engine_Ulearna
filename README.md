@@ -54,13 +54,19 @@
 ### Downloading the model
 
 #### linux
-**!wget https://github.com/GantMan/nsfw_model/releases/download/1.1.0/nsfw_mobilenet_v2_140_224.zip** 
+```
+!wget https://github.com/GantMan/nsfw_model/releases/download/1.1.0/nsfw_mobilenet_v2_140_224.zip
+```
 
 #### win
-**!curl -L -o nsfw_mobilenet_v2_140_224.zip https://github.com/GantMan/nsfw_model/releases/download/1.1.0/nsfw_mobilenet_v2_140_224.zip**
+```
+!curl -L -o nsfw_mobilenet_v2_140_224.zip https://github.com/GantMan/nsfw_model/releases/download/1.1.0/nsfw_mobilenet_v2_140_224.zip
+```
 
 
+##### Notebook Contains Interfacing the Image and Get Prediction using Prebuilt model
 
+#### main.py use for making Video to the Frames and save at specific folder 
 
 
 
